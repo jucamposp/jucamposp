@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Graduanda em Ciência da Computação pela UERJ (Universidade do Estado do Rio de Janeiro), explorando diferentes linguagens e tecnologias para ampliar minha visão sobre o desenvolvimento de software. Tenho interesse especial pelos universos Web, Mobile e UX/UI Design, áreas nas quais busco unir criatividade, experiência do usuário e soluções funcionais. Aqui você encontrará alguns dos meus projetos, estudos e a evolução da minha jornada na programação.
+Explorando diferentes linguagens e tecnologias para ampliar minha visão sobre o desenvolvimento de software. Tenho interesse especial pelos universos Web, Mobile e UX/UI Design, áreas nas quais busco unir criatividade, experiência do usuário e soluções funcionais. Aqui você encontrará alguns dos meus projetos, estudos e a evolução da minha jornada na programação.
 
 ---
 
