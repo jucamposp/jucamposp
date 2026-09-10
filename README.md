@@ -59,6 +59,8 @@ Graduanda em Ciência da Computação pela UERJ (Universidade do Estado do Rio d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
+<br/>
+
 ### Ferramentas
 
 <img 
@@ -69,9 +71,31 @@ Graduanda em Ciência da Computação pela UERJ (Universidade do Estado do Rio d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
 
-<br/>
-<br/>
 
 
 
