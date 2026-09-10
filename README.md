@@ -6,7 +6,9 @@ Graduanda em Ciência da Computação pela UERJ (Universidade do Estado do Rio d
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖Tecnologias
+
+### Linguagens
 
 <img 
     align="left" 
@@ -34,14 +36,6 @@ Graduanda em Ciência da Computação pela UERJ (Universidade do Estado do Rio d
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -65,25 +59,19 @@ Graduanda em Ciência da Computação pela UERJ (Universidade do Estado do Rio d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
+### Ferramentas
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img
-    align="left"
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=jucamposp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    align="left"
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucamposp&layout=compact&theme=tokyonight&langs_count=6"
-  />
-</p>
-
-<br clear="left"/>
 
