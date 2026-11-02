@@ -32,8 +32,3 @@ Always curious, always learning, and always creating! ✨☺️
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/jucamposp/jucamposp/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=nightowl&hide_border=false&order=2" height="127" alt="languages graph"  />
-</div>
