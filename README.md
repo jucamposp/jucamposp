@@ -8,7 +8,7 @@ Always curious, always learning, and always creating! ✨☺️
 
 ---
 
-### 🌐 Linguagens e Tecnologias
+### 🌐 Languages & Technologies
 
 <img 
     align="left" 
