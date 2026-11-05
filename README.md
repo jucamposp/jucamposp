@@ -7,7 +7,9 @@ I'm a Computer Science student passionate about technology and software developm
 <br>
 Although I'm exploring the full spectrum of software development, my heart belongs to Front-end Development and UI/UX Design — where technology meets creativity and user experience.
 <br>
+<br>
 This profile is where I share my projects, learning experiences, and experiments as I continue developing my skills.
+<br>
 <br>
 Always curious, always learning, and always creating! ✨☺️
 
