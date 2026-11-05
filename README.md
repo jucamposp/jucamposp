@@ -4,6 +4,7 @@
 
 I'm a Computer Science student passionate about technology and software development. Currently, I'm on my journey to becoming a Full Stack Developer, continuously expanding my knowledge of both front-end and back-end technologies. 
 <br>
+<br>
 Although I'm exploring the full spectrum of software development, my heart belongs to Front-end Development and UI/UX Design — where technology meets creativity and user experience.
 <br>
 This profile is where I share my projects, learning experiences, and experiments as I continue developing my skills.
